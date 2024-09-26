@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **something amazing!**
 
-- 💬 Ask me about **Cloud Computing, networking and Azure Big Data**
+- 💬 Ask me about **Data Analysis, Cloud Computing, networking and Big Data**
 
 - 📫 How to reach me **deepsofficial04@gmail.com**
 
