@@ -2,10 +2,49 @@
 <h3 align="center">Pursuing B.Tech in Computer Science and Engineering </h3>
 
 <p align="center">
-Ambitious eyes with a key interest in Data science, Data Analysis and visualization.
+Ambitious eyes with a key interest in Cyber Security, Data science, Data Analysis and visualization.
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=deepshikhapaty04&label=Profile%20views&color=0e75b6&style=flat" alt="deepshikhapaty04" /> </p>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://tryhackme.com/img/badges/linux.svg" width="100"><br>
+      cat linux.txt
+    </td>
+    <td align="center">
+      <img src="https://tryhackme.com/img/badges/blue.svg" width="100"><br>
+      Hacking into windows <br> via eternal blue
+    </td>
+    <td align="center">
+      <img src="https://tryhackme.com/img/badges/introtowebsecurity.svg" width="100"><br>
+      Webhacking<br><br>
+    </td>
+      <td align="center">
+      <img src="https://assets.tryhackme.com/img/badges/networkfundamentals.svg" width="100"><br>
+      Networking Nerd<br><br>
+    </td>
+      <td align="center">
+      <img src="https://assets.tryhackme.com/img/badges/introtooffensivesecurity.svg" width="100"><br>
+      Pentesting Principles<br><br>
+    </td>
+  </tr>
+    <tr>
+        <td align="center">
+      <img src="https://assets.tryhackme.com/img/badges/webbed.svg" width="100"><br>
+      Webbed<br><br>
+    </td>
+        <td align="center">
+      <img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" width="100"><br>
+     World Wide Web<br><br>
+    </td>
+    <td align="center">
+      <img src="https://tryhackme.com/img/badges/streak7.svg" width="100"><br>
+      7 days streak<br><br>
+    </td>
+    </tr>
+</table>
 
 <div>
   <div align="center">
